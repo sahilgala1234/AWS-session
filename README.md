@@ -18,11 +18,13 @@ This project demonstrates a simple React application with Sign Up and Login form
    ```
 2. **Navigate to the project folder**:
    ```bash
-   cd react-formik-app
+   cd LoginReact
+   cd loginpage
    ```
 3. **Install dependencies**:
    ```bash
    npm install
+   npm install yum formik
    ```
    Or, if using Yarn:
    ```bash
